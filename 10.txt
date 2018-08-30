@@ -1,4 +1,3 @@
 10.txt
 adding some changes
-and so on . .
-now again changing content
+and so on . 
